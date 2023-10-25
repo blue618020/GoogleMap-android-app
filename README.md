@@ -1,6 +1,6 @@
 # 구글지도 앱
 
-📝 <b> tistory : </b> https://blue618020.tistory.com/119 , https://blue618020.tistory.com/120 , https://blue618020.tistory.com/121
+📝 <b> tistory : </b> https://blue618020.tistory.com/119 , https://blue618020.tistory.com/121
 
 ### 🔍 학습 내용
 -  구글맵 API 공식 페이지를 확인하여 사용하기
